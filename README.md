@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Galaxies é um projeto simples para prática de técnicas apresentadas durante as aulas do Explorer.
 
 - [Acesse o projeto finalizado, online](https://patrickxfranco.github.io/galaxies/)
 
